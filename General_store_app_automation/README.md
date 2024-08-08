@@ -1,13 +1,12 @@
 # Amazon_Shopping_App_Automation
 
-### An [Amazon Shopping App](https://play.google.com/store/apps/details?id=com.amazon.mShop.android.shopping) is automated by implementing test cases for launching amazon app,searching for a product,adding to cart and proceed to check-out page with an authenticated user .Appium is utilized on an emulated device powered by Android Studio.
+### An [General store](https://github.com/Hima0X2/MobileAutomation/blob/main/General_store_app_automation/com.mobile/src/General-Store.apk) is automated by implementing test cases ... .Appium is utilized on an emulated device powered by Android Studio.
 Here the following tasks are done:
-- Amazon e-commerce Shopping App extracted from [Amazon Shopping App](https://play.google.com/store/apps/details?id=com.amazon.mShop.android.shopping) is automated by extracting its apk.
-- Login Module is implemented including various negative scenarios.
-- Searched product named "TV" and choose a product after scrolling down.
-- Checked Price and size of the product,finally Added to cart.
-- Proceeded to checkout for final payment by credit card or bank cheque.
-- Screenshot taken for Success and failed test case,saved in folder.
+- General store App extracted from [General store app](https://github.com/Hima0X2/MobileAutomation/blob/main/General_store_app_automation/com.mobile/src/General-Store.apk) is automated by extracting its apk.
+- Change the country name
+- Enter user name
+- Changed gendar using radio button
+- click let's shop button
 ### Technology: </br>
 - Tool: Selenium Webdriver
 - Test_Runner: Appium
