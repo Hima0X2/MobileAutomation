@@ -1,8 +1,8 @@
 # Selendroid testapp
 
-### An [General store](https://github.com/Hima0X2/MobileAutomation/blob/main/General_store_app_automation/com.mobile/src/General-Store.apk) is automated by implementing test cases ... .Appium is utilized on an emulated device powered by Android Studio.
+### An [Selendroid testapp](https://github.com/Hima0X2/MobileAutomation/blob/main/Selendroid%20testapp/com.mobile/src/selendroid-test-app.apk) is automated by implementing test cases ... .Appium is utilized on an emulated device powered by Android Studio.
 Here the following tasks are done:
-- General store App extracted from [General store app](https://github.com/Hima0X2/MobileAutomation/blob/main/General_store_app_automation/com.mobile/src/General-Store.apk) is automated by extracting its apk.
+- General store App extracted from [Selendroid testapp](https://github.com/Hima0X2/MobileAutomation/blob/main/Selendroid%20testapp/com.mobile/src/selendroid-test-app.apk) is automated by extracting its apk.
 - This is mainly a register page where username,email,password,name and programming language have to give.
 ### Technology: </br>
 - Tool: Selenium Webdriver
