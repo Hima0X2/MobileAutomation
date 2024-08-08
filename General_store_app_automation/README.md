@@ -27,7 +27,7 @@ Here the following tasks are done:
 - Turn on **Developer Options** on your android phone
 - Connect your android phone with USB cable/ Create an emulated virtual device via Android Studio and run it.
 - Open cmd and give ```adb devices``` command to get uuid.
-- install this app using adb install app_name
+- install this app using adb install General-Store.apk
 - Open Appium and start server. Then open inspector tool.
 - In the **JSON Representation** section, paste the following desired capabilities after adding your uuid and version:
 
