@@ -11,13 +11,13 @@ Here the following tasks are done:
 ### Technology: </br>
 - Tool: Selenium Webdriver
 - Test_Runner: Appium
-- IDE: Intellij, Android Studio
-- Build tool: Gradle
+- IDE: Eclipse, Android Studio
+- Build tool: Maven
 - Language: Java
 
 ### Prerequisites</br>
 - Install Android Studio latest version
-- Install Appium 1.17.1
+- Install Appium 2.11.2
 - Install jdk 8 or any LTS version
 - Configure **ANDROID_HOME**, **JAVA_HOME** and **GRADLE_HOME**
 - Stable internet connection
@@ -48,5 +48,5 @@ Here the following tasks are done:
 
 #### Run the Automation Script by the following command:
  ```
- gradle clean test 
+ maven clean test 
  ```
