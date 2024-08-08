@@ -1,4 +1,4 @@
-# Amazon_Shopping_App_Automation
+# General_store_app_automation
 
 ### An [General store](https://github.com/Hima0X2/MobileAutomation/blob/main/General_store_app_automation/com.mobile/src/General-Store.apk) is automated by implementing test cases ... .Appium is utilized on an emulated device powered by Android Studio.
 Here the following tasks are done:
